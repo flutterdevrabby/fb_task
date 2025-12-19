@@ -1,8 +1,5 @@
 # fb_journal_app
 
-
-# Scube Task
-
 # App Screen Shot
 
 <p align="center">
