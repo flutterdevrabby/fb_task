@@ -35,7 +35,7 @@ git clone https://github.com/flutterdevrabby/fb_task.git
 
 ### Step 2: Navigate to the project folder
 ```bash
-cd scubeTask
+cd fb_task
 ```
 
 ### Step 3: Install dependencies
